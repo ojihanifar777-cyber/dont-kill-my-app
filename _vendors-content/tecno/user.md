@@ -1,4 +1,4 @@
----
+dinamic spot---
 manufacturer:
     - tecno
 
